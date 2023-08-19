@@ -116,7 +116,7 @@ GROUP BY 1
 ORDER BY 2 DESC
 ;
 
--- CONCLUSION 
+-- CONCLUSIONS 
 -- Best time for advertisement 
 /* The best time for advertisement are the morning hours and evening hours. Due to the fact that orders are made
  mostly in the hours of 09:00-12.00 and 16:00-19:00. */
@@ -125,4 +125,5 @@ ORDER BY 2 DESC
 /* All days have almost the same order count throughout the year, however, Tuesday and Monday has the
 highest order count respectively. Tuesdays and Mondays are the best days for advertisement. */
 
--- Datasource: www.kaggle.com
+-- Datasource: https://www.kaggle.com/datasets/knightbearr/sales-product-data
+-- Visualization: https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/ElectronicProducts_16924076024950/Electronicproductsales?publish=yes
