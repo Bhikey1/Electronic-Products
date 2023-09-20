@@ -1,1 +1,2 @@
-# Electronic-Products
+# Electronic-Products sales analysis
+An ecommerce that sells electronic product such as phones, charger etc in the USA, and the data comprises of details about customer location, order date, product name and price. The task is to know the best month for sales and how much was earned, what city had the highest number of sales, what time and day should advertisement be done, and what products are sold together (Basket Analysis)?
