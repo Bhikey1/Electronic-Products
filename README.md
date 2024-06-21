@@ -1,4 +1,4 @@
-### Electronic-Products sales analysis
+### Electronic Products sales analysis
 An ecommerce that sells electronic product such as phones, charger etc in the USA, and the data comprises of details about customer location, order date, product name and price. The task is to know the best month for sales and how much was earned, what city had the highest number of sales, what time and day should advertisement be done, and what products are sold together (Basket Analysis)?
 
 ### TASKS
@@ -19,5 +19,5 @@ Products that are sold together are iPhone and Lightning charging cable, Google 
 ### Data Visualization
 ![Electronic Product Sales Analysis](https://github.com/Bhikey1/Electronic-Products/blob/main/Electronic%20product%20sales.png)
 
-## Datasource: https://www.kaggle.com/datasets/knightbearr/sales-product-data
-## Visualization: [Electronic Products](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/ElectronicProducts_16924076024950/Electronicproductsales?publish=yes)
+### Datasource: https://www.kaggle.com/datasets/knightbearr/sales-product-data
+### Visualization: [Electronic Products](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/ElectronicProducts_16924076024950/Electronicproductsales?publish=yes)
